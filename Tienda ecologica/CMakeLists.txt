@@ -10,4 +10,6 @@ add_executable(untitled4 main.cpp
         Cliente.h
         Venta.cpp
         Venta.h
+        Tienda.cpp
+        Tienda.h
 )
